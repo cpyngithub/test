@@ -2,7 +2,7 @@
   "name": "angular",
   "version": "0.0.0",
   "license": "MIT",
-  "main": "src/index.html",
+  "main": ".angular-cli.json",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
